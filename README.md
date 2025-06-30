@@ -2,8 +2,8 @@ SQL Joins – Inner, Left, Right, and Full Join
 Objective:
 To understand and demonstrate how to merge data from multiple related tables using various SQL JOIN operations.
 
-🔧 Tools Used:
-MySQL Workbench / DB Browser for SQLite
+ Tools Used:
+MySQL Workbench 
 
 MySQL Database: employee_management_system
 
